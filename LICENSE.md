@@ -43,4 +43,5 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ------
 
-[Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+[Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) ( Full License )
+
